@@ -9,15 +9,15 @@ type Props = {
 export default function TwitterCardMeta({ url, title, description }: Props) {
   return (
     <Head>
-      <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:site" content={config.twitter_account} />
-      <meta property="twitter:url" content={config.base_url + url} />
+      <meta property="instagram:card" content="summary_large_image" />
+      <meta property="instagram:site" content={config.instagram_account} />
+      <meta property="instagram:url" content={config.base_url + url} />
       <meta
-        property="twitter:title"
+        property="instagram:title"
         content={title ? [title, config.site_title].join(" | ") : ""}
       />
       <meta
-        property="twitter:description"
+        property="instagram:description"
         content={description ? description : config.site_description}
       />
     </Head>
