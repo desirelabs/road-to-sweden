@@ -17,7 +17,7 @@ export default function Index() {
           <h2>
             Le blog des pérégrinations
             <br />
-            d'une famille d'expatriés Français
+            d&apos;une famille d&apos;expatriés Français
             <br />
             en Suède.
           </h2>
@@ -26,14 +26,14 @@ export default function Index() {
             en Suède.
           </p>
           <p>
-            Ce site raconte notre histoire au fil de l'eau. On y parle des
+            Ce site raconte notre histoire au fil de l&apos;eau. On y parle des
             réussites liées à notre projet, mais aussi des difficultés et des
             échecs que nous avons vécus.
           </p>
           <p>
             Nous partageons des conseils pratiques sur la recherche du logement,
-            d'emploi, mais aussi sur les démarches légales afin de réussir dans
-            notre démarche.
+            d&apos;emploi, mais aussi sur les démarches légales afin de réussir
+            dans notre démarche.
           </p>
           <p>
             Nous espérons que ce site vous servira, ou à tout le moins vous
